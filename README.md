@@ -52,7 +52,7 @@ python visual.py -i visualization/02445.jpg
                     [--visualize / -v]
 ```
 
-The predicted lane result will be saved in "visualization/". Our pretrained model can be downloaded [here].  Please download and put it under "experiment/exp0/".
+The predicted lane result will be saved in "visualization/". Our pretrained model can be downloaded [here](https://drive.google.com/drive/folders/1hJCMzft-BkNj6jylihGX2Yumbnyxr1Dy?usp=sharing).  Please download and put it under "experiment/exp0/".
 
 'demo result image'
 
