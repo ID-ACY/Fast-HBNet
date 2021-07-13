@@ -54,7 +54,7 @@ python visual.py -i visualization/02445.jpg
 
 The predicted lane result will be saved in "visualization/". Our pretrained model can be downloaded [here].  Please download and put it under "experiment/exp0/".
 'result image'
-![result image](./LaneNetonCULane/visualization/02245_result.jpg)
+![result image](https://github.com/ZT-GroupR/Fast-HBNet/blob/master/LaneNetonCULane/visualization/02245_result.jpg)
 
 
 ## Train 
