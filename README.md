@@ -98,7 +98,7 @@ The predicted lane result will be saved in "visualization/". Our pretrained mode
 
   - [-R] is a optional parameters. If you test without "-R", your can test LaneNet on CULane dataset quickly. If you test with "-R", the predicted result will be regenerated, and it will take several hours due to the post processing operations are added.
 
-   c). The total F1 can be calculated by `utils/lane_evaluation/CULane/calTotal.m` after finishing step b).
+    c). The total F1 can be calculated by `utils/lane_evaluation/CULane/calTotal.m` after finishing step b).
 
 
 
