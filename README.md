@@ -8,7 +8,7 @@ The code of "Fast-HBNet: Hybrid Branch Network for Fast Lane Detection" will be 
 
 This code has been tested on Ubuntu 16.04, python 3.7, cuda 9.0, cudnn 7.0, opencv(C++)3.4.8 with GPU RTX-2080Super. To run this code you should have a environment with pytorch==1.7.0, and the lower version pytorch maybe not work. Other environment dependencies can be installed by 'pip'.
 
-## The performance of LaneNet on CULane
+## Performance
 | Category  | F1-measure          |
 | --------- | ------------------- |
 | Normal    | 82.9                |
