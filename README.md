@@ -79,7 +79,7 @@ The predicted lane result will be saved in "visualization/". Our pretrained mode
    python test_fps.py -e ./experiments/exp0
    ```
 
-2. For quickly calculate F1-score, you should make some changes.
+2. For quickly calculate F1-score, you should unzip `/experiments/exp0/corrd_output.zip` to `/experiments/exp0/`, and make some operations as the following:
 
    a). Modify "root" as absolute project path in `utils/lane_evaluation/CULane/Run.sh`.
    ```bash
