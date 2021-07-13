@@ -93,10 +93,10 @@ The predicted lane result will be saved in "visualization/". Our pretrained mode
    ``` shell
    python test_CULane.py -e ./experiments/exp0 [-R]
    ```
-   **Note**
+  **Note**
 
 
-   - [-R] is a optional parameters. If you test without "-R", your can test LaneNet on CULane dataset quickly. If you test with "-R", the predicted result will be regenerated, and it will take several hours due to the post processing operations are added.
+  - [-R] is a optional parameters. If you test without "-R", your can test LaneNet on CULane dataset quickly. If you test with "-R", the predicted result will be regenerated, and it will take several hours due to the post processing operations are added.
 
    c). The total F1 can be calculated by `utils/lane_evaluation/CULane/calTotal.m` after finishing step b).
 
