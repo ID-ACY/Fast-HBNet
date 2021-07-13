@@ -1,0 +1,6 @@
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out7_cross.txt
+tp: 0 fp: 5705 fn: 0
+precision: 0
+recall: -1
+Fmeasure: 0
+

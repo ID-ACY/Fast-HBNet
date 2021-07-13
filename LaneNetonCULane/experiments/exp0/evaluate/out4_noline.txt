@@ -1,0 +1,6 @@
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out4_noline.txt
+tp: 5097 fp: 8077 fn: 8902
+precision: 0.386898
+recall: 0.364097
+Fmeasure: 0.375152
+

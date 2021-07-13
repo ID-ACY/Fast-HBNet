@@ -1,0 +1,54 @@
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out0_normal.txt
+tp: 27559 fp: 6124 fn: 5216
+precision: 0.818187
+recall: 0.840854
+Fmeasure: 0.829366
+
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out1_crowd.txt
+tp: 17090 fp: 11046 fn: 10879
+precision: 0.607407
+recall: 0.611034
+Fmeasure: 0.609215
+
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out2_hlight.txt
+tp: 885 fp: 759 fn: 776
+precision: 0.538321
+recall: 0.532812
+Fmeasure: 0.535552
+
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out3_shadow.txt
+tp: 1590 fp: 1240 fn: 1254
+precision: 0.561837
+recall: 0.559072
+Fmeasure: 0.560451
+
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out4_noline.txt
+tp: 5097 fp: 8077 fn: 8902
+precision: 0.386898
+recall: 0.364097
+Fmeasure: 0.375152
+
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out5_arrow.txt
+tp: 2280 fp: 895 fn: 867
+precision: 0.71811
+recall: 0.7245
+Fmeasure: 0.721291
+
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out6_curve.txt
+tp: 764 fp: 502 fn: 540
+precision: 0.603476
+recall: 0.58589
+Fmeasure: 0.594553
+
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out7_cross.txt
+tp: 0 fp: 5705 fn: 0
+precision: 0
+recall: -1
+Fmeasure: 0
+
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out8_night.txt
+tp: 11415 fp: 10487 fn: 9588
+precision: 0.521185
+recall: 0.543494
+Fmeasure: 0.532106
+

@@ -1,0 +1,6 @@
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out0_normal.txt
+tp: 27559 fp: 6124 fn: 5216
+precision: 0.818187
+recall: 0.840854
+Fmeasure: 0.829366
+

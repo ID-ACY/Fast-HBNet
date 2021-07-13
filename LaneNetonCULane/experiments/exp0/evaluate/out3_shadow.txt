@@ -1,0 +1,6 @@
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out3_shadow.txt
+tp: 1590 fp: 1240 fn: 1254
+precision: 0.561837
+recall: 0.559072
+Fmeasure: 0.560451
+

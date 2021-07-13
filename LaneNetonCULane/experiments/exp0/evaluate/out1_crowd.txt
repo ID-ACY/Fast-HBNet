@@ -1,0 +1,6 @@
+file: /home/guilinpang/LaneNet-ZT-Group//experiments/exp0/coord_output/../evaluate/out1_crowd.txt
+tp: 17090 fp: 11046 fn: 10879
+precision: 0.607407
+recall: 0.611034
+Fmeasure: 0.609215
+
