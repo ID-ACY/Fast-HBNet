@@ -56,7 +56,7 @@ The predicted lane result will be saved in "visualization/". Our pretrained mode
 
 'demo result image'
 
-![result image](https://drive.google.com/drive/folders/1hJCMzft-BkNj6jylihGX2Yumbnyxr1Dy?usp=sharing)
+![result image](https://github.com/ZT-GroupR/Fast-HBNet/blob/master/LaneNetonCULane/visualization/02445_result.jpg)
 
 
 ## Train 
