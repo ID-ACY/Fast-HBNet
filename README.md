@@ -55,7 +55,7 @@ python visual.py -i visualization/02445.jpg
 The predicted lane result will be saved in "visualization/". Our pretrained model can be downloaded [here].  Please download and put it under "experiment/exp0/".
 ![](LaneNetonCULane/visualization/02245_result.jpg "02245_result")
 
-
+<br/>
 
 ## Train 
 
